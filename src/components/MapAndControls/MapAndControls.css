@@ -1,0 +1,18 @@
+#map-and-controls {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    margin: 10px 0px;
+    padding: 0px;
+}
+
+.game-map {
+    position: relative;
+    margin: 0px auto;
+}
+
+ div.layer {
+    position: absolute;
+ }
